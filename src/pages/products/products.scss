@@ -1,0 +1,13 @@
+.products {
+  .info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+    button {
+      padding: 0.6rem 1.5rem;
+      cursor: pointer;
+    }
+  }
+}
